@@ -21,7 +21,7 @@
 
 ## Animation
 
--[Spring](https://github.com/MengTo/Spring):`MengTo`写的动画框架，买过他的书[《Design+Code》](https://designcode.io)。
+- [Spring](https://github.com/MengTo/Spring):`MengTo`写的动画框架，买过他的书[《Design+Code》](https://designcode.io)。
 - [EasyAnimation](https://github.com/icanzilb/EasyAnimation):主要应用于`UIView.animateWithDuration(_:, animations:...) `。
 - [IBAnimatable](https://github.com/JakeLin/IBAnimatable):主要使用于`Interface Builder `,不需要一行代码就可打造拥有炫酷动画效果的UI界面。
 - [Advance](https://github.com/storehouse/Advance):可应用于 iOS、 tvOS、 and OS X的动画框架。
