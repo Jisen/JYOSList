@@ -1,6 +1,6 @@
 # GitHub第三方资源库整理(OC篇)
 
-【[网络](#网络) &bull; [综合](#综合) &bull; [动画](#动画) &bull; [自动布局](#自动布局) &bull; [键盘交互管理](#键盘交互管理) &bull; [加载指示、HUD](#加载指示、HUD) &bull; [数据处理](#数据处理) &bull; [Categories](#Categories) &bull; [UIKit](#UIKit)  &bull; [Image](#Image) &bull; [Camera、视频](#Camera、视频) &bull; [瀑布流](#瀑布流) &bull; [Objective-C与JS交互](#Objective-C与JS交互) &bull; [工具、Xcode插件](#工具、Xcode插件) &bull; [测试](#测试) &bull; [资料](#资料) &bull; [其他](#其他)】
+【[网络](#网络) &bull; [综合](#综合) &bull; [动画](#动画) &bull; [自动布局](#自动布局) &bull; [键盘交互管理](#键盘交互管理) &bull; [加载指示器](#加载指示器) &bull; [数据处理](#数据处理) &bull; [Categories](#categories) &bull; [UIKit](#uikit)  &bull; [Image](#image) &bull; [视频](#视频) &bull; [瀑布流](#瀑布流) &bull; [OC与JS交互](#oc与js交互) &bull; [工具与插件](#工具与插件) &bull; [日志](#日志) &bull; [测试](#测试) &bull; [API&SDK](api&sdk) &bull; [资料](#资料) &bull; [其他](#其他)】
 
 ## 网络
 
@@ -70,7 +70,7 @@
 - [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding)：键盘交互事件。
 - [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager):键盘交互管理。
 
-## 加载指示、HUD
+## 加载指示器
 
 - [MBProgressHUD](https://github.com/jdg/MBProgressHUD):加载进程指示框架，都知道。
 - [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD):轻量的`HUD`。
@@ -212,7 +212,7 @@
 - [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage):Gif引擎框架。
 - [YLGIFImage](https://github.com/liyong03/YLGIFImage):异步Gif解码，播放Gif图片，占用内存少。
 
-## Camera、视频
+## 视频
 
 - [XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit):`YouTube`视频播放框架。
 - [ZFPlayer](https://github.com/renzifeng/ZFPlayer):基于`AVPlayer`支持横屏、竖屏的视频播放器。
@@ -224,7 +224,7 @@
 
 - [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout):UICollectionView的瀑布流。
  
-## Objective-C与JS交互
+## OC与JS交互
 
 - [JSPatch](https://github.com/bang590/JSPatch):`JSPath`充当`Objective-C`与
 `Javascript` 交互的桥梁。
@@ -272,7 +272,7 @@
 
 - [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack):是Mac和iOS上一个集快捷、简单、强大和灵活于一身的日志框架。
 
-## 工具、Xcode插件
+## 工具与插件
 ### 工具
 
 - [Alcatraz](https://github.com/alcatraz/Alcatraz):Xcode插件管理神器，当然还有些其他的包管理功能。
@@ -296,7 +296,7 @@
 - [FuzzyAutocompletePlugin](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin):代码索引、自动补全代码的插件。
 - [ColorSense-for-Xcode](https://github.com/omz/ColorSense-for-Xcode):主要针对RGB颜色值，可实时查看RGB颜色。
 
-## API、SDK
+## API&SDK
 
 - [facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)：facebook的sdk，使用它可以集成facebook的一些API。
 - [octokit.objc](https://github.com/octokit/octokit.objc):`GitHub`API。
