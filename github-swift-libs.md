@@ -1,5 +1,7 @@
 # GitHub第三方资源库整理(Swift篇)
 
+【[网络](#网络) &bull; [综合](#综合) &bull; [Animation](#animation) &bull; [数据处理](#数据处理) &bull; [Category或Extension](category或extension) &bull; [加载指示器](#加载指示器) &bull; [Refresh](#refresh) &bull; [图表](#图表) &bull; [AutoLayout](#autoLayout) &bull; [UIKit](#uikit) &bull; [Image](#image) &bull; [Menu](#menu) &bull; [测试](#测试) &bull; [日志](#日志) &bull; [工具与插件](#工具与插件) &bull; [其他](#其他) &bull; [算法以及数据结构](#算法以及数据结构) &bull; [开源APP](#开源app) &bull; [资料](#资料)】
+
 ## 网络
 
 - [Alamofire](https://github.com/Alamofire/Alamofire):`http`网络请求事件处理的框架。
@@ -56,17 +58,17 @@
 - [SwiftString](https://github.com/amayne/SwiftString):关于swift中`string`处理的扩展，有`between(left, right)`、`camelize()`、`capitalize()`、`count(string)`、`decodeHTML()`、`contains(substring)`等。
 - [ReSwift](https://github.com/ReSwift/ReSwift):单向数据流处理，灵感来自于[redux](https://github.com/reactjs/redux)。
 
-## Category、Extension
+## Category或Extension
 - [ExSwift](https://github.com/pNre/ExSwift): 包含一组标准类型和类的Swift扩展。
 
-## 加载指示、HUD
+## 加载指示器
 - [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView):很多漂亮的加载指示器。
 - [FillableLoaders](https://github.com/poolqf/FillableLoaders):自定义的进度加载器，有`waves`、`plain`、`spike`、`rounded`等效果。
 
 ## Refresh
 - [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh):有弹性效果的下拉刷新控件。
 
-## 图表、绘画
+## 图表
 - [Charts](https://github.com/danielgindi/Charts):非常好的图表框架，类似于`MPAndroidChart`。
 - [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift):`周凯文`写的[PNChart](https://github.com/kevinzhow/PNChart)的swift版。
 
@@ -174,12 +176,12 @@
 - [Quick](https://github.com/Quick/Quick):测试框架，支持`Swift`和`OC`，灵感来自于[RSpec](https://github.com/rspec/rspec), [Specta](https://github.com/specta/specta), and [Ginkgo](https://github.com/onsi/ginkgo)。
 - [Sleipnir](https://github.com/railsware/Sleipnir):BDD测试框架，灵感来自于`OC`写的[cedar](https://github.com/pivotal/cedar)。
 
-## 日志、Log
+## 日志
 
 - [XCGLogger](https://github.com/DaveWoodCom/XCGLogger):功能完整的日志管理库。
 - [Log](https://github.com/delba/Log):强有力的日志框架。
 
-## 工具、插件
+## 工具与插件
 
 - [Carthage](https://github.com/Carthage/Carthage):包管理工具，类似于`CocoaPod`。
 - [swift-package-manager](https://github.com/apple/swift-package-manager):同样的，包管理工具。
@@ -233,7 +235,7 @@
 
 - [Yep](https://github.com/CatchChat/Yep):`周凯文`团队开源的一个社交APP,对于学习swift开发整个项目非常有价值。
 
-## 资料、资源
+## 资料
 
 - [iOS-9-Sampler](https://github.com/shu223/iOS-9-Sampler):关于iOS9新特性的所有demo。
 - [iOS9-day-by-day](https://github.com/shinobicontrols/iOS9-day-by-day):`day-by-day`系列相信很多人都很熟悉，主要介绍一些新特性、新框架的使用。
