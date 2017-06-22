@@ -1,6 +1,6 @@
 # GitHub第三方资源库整理(Swift篇)
 
-【[网络](#网络) &bull; [综合](#综合) &bull; [Animation](#animation) &bull; [数据处理](#数据处理) &bull; [Category或Extension](category或extension) &bull; [加载指示器](#加载指示器) &bull; [Refresh](#refresh) &bull; [图表](#图表) &bull; [AutoLayout](#autoLayout) &bull; [UIKit](#uikit) &bull; [Image](#image) &bull; [Menu](#menu) &bull; [测试](#测试) &bull; [日志](#日志) &bull; [工具与插件](#工具与插件) &bull; [其他](#其他) &bull; [算法以及数据结构](#算法以及数据结构) &bull; [开源APP](#开源app) &bull; [资料](#资料)】
+【[网络](#网络) &bull; [综合](#综合) &bull; [Animation](#animation) &bull; [数据处理](#数据处理) &bull; [Category](category) &bull; [加载指示器](#加载指示器) &bull; [Refresh](#refresh) &bull; [图表](#图表) &bull; [AutoLayout](#autolayout) &bull; [UIKit](#uikit) &bull; [Image](#image) &bull; [Menu](#menu) &bull; [测试](#测试) &bull; [日志](#日志) &bull; [工具与插件](#工具与插件) &bull; [其他](#其他) &bull; [算法以及数据结构](#算法以及数据结构) &bull; [开源APP](#开源app) &bull; [资料](#资料)】
 
 ## 网络
 
@@ -58,7 +58,7 @@
 - [SwiftString](https://github.com/amayne/SwiftString):关于swift中`string`处理的扩展，有`between(left, right)`、`camelize()`、`capitalize()`、`count(string)`、`decodeHTML()`、`contains(substring)`等。
 - [ReSwift](https://github.com/ReSwift/ReSwift):单向数据流处理，灵感来自于[redux](https://github.com/reactjs/redux)。
 
-## Category或Extension
+## Category
 - [ExSwift](https://github.com/pNre/ExSwift): 包含一组标准类型和类的Swift扩展。
 
 ## 加载指示器
