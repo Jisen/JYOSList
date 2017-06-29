@@ -4,14 +4,11 @@
 
 👇
 
-[GitHub第三方资源库整理(OC篇)](github-oc-libs.md)
+- [GitHub第三方资源库整理(OC篇)](github-oc-libs.md)
+- [GitHub第三方资源库整理(Swift篇)](github-swift-libs.md)
+- [优秀的博客作者和团队](excellent-blog-address.md)
 
-- [简书地址](http://www.jianshu.com/p/a1c3b7d5bab1)
-- [Gitbook地址](https://jisen.gitbooks.io/github-oc-libs/content/)
-
-[GitHub第三方资源库整理(Swift篇)](github-swift-libs.md)
-
-- [简书地址](http://www.jianshu.com/p/68e12b966d86)
-- [Gitbook地址](https://jisen.gitbooks.io/github-swift-resource/content/)
+[我的简书](http://www.jianshu.com/u/97e4c0e7528e)
+[我的Gitbook](https://www.gitbook.com/@jisen)
 
 
